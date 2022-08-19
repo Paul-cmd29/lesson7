@@ -75,3 +75,4 @@ class Lesson7
         Console.WriteLine(String.Join(" ", array)); 
     }
 }
+//checked
